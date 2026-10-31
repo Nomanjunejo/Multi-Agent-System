@@ -1,0 +1,34 @@
+
+# ==========================================
+# Multi-Agent Research System
+# ==========================================
+
+# LangChain core and LCEL Runnables
+langchain
+langchain-core
+
+# Gemini API integration
+langchain-google-genai
+
+# Agent framework and ReAct-style agents
+langgraph
+
+# Tavily web search
+tavily-python
+langchain-tavily
+
+# Web scraping with BeautifulSoup
+beautifulsoup4
+requests
+
+# Environment variables
+python-dotenv
+
+# Data validation and structured outputs
+pydantic
+
+# HTTP utilities and connection handling
+httpx
+
+# Terminal output and debugging
+rich
